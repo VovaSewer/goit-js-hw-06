@@ -11,3 +11,6 @@ itemRef.forEach(node => {
     console.log(`Category: ${title}`);
     console.log(`Elements: ${item}`);
 });
+
+
+
